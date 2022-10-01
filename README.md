@@ -23,6 +23,8 @@ Creation of a model with high accuracy.
 The dataset availed by the school.
 
 
+
+
 # Conclusion
 1. Features such as condition , bedrooms, bathrooms, sqft_living15 and sqft_living of the house should be put into consideration because they affect prices positively .
 
@@ -34,7 +36,11 @@ The dataset availed by the school.
 * Square footage of the land space (sqft_lot)
 * The square footage of the interior housing space that is below ground level (sqft_basement)
 
+### Tableau Visualization
+Checkout my tableau story [here](https://public.tableau.com/views/HousePredictionStory/HousePredictionStory?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+
+Checkout my interactive tableau dashboard [here](https://public.tableau.com/views/HousePredictionDashboard/HousePredictionDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
